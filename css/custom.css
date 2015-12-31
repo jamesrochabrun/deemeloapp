@@ -20,6 +20,12 @@
 }
 
 
+.section-header {
+  display:none;
+}
+
+
+
 
 
 /* Hero
@@ -81,6 +87,10 @@ background: linear-gradient(#fff, transparent 90%), linear-gradient(180deg, #fff
   .section {
     padding: 12rem 0 11rem;
   }
+
+  .section-header {
+  display:initial;
+}
 
 .button {
   display: inline-block;
